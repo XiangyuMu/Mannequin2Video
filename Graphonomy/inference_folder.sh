@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python exp/inference/inference_folder.py --loadmodel data/pretrained_mode/inference.pth --imgfolder_path /data/muxiangyu/MyDatasets/MyDatasets/DeepFashion/video_frames --output_path /data/muxiangyu/MyDatasets/MyDatasets/DeepFashion/videoFramesParsing

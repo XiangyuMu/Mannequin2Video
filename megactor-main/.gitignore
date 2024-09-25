@@ -1,0 +1,20 @@
+# extensions
+*.egg-info
+*.pyo
+*.pyc
+*.pyd
+*.jpg
+*.git
+*.log
+
+# envs
+.pt13
+.pt2
+*__pycache__*
+
+# directories
+/checkpoints
+/dist
+/outputs
+/build
+/src

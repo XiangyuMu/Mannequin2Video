@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../TryonDatasets/datasets"
+		},
+		{
+			"path": "../../../TryonDatasets/megactor"
+		}
+	],
+	"settings": {}
+}

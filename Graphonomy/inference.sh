@@ -1,0 +1,1 @@
+python exp/inference/inference.py --loadmodel data/pretrained_mode/inference.pth --img_path ./img/Image_2.jpg --output_path ./img/ --output_name Image2_output
