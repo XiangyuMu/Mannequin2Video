@@ -1,0 +1,5 @@
+Graphonomy/data/pretrained_mode/inference.pth filter=lfs diff=lfs merge=lfs -text
+mmpose/Demo_model/cspnext-m_udp-aic-coco_210e-256x192-f2f7d6f6_20230130.pth filter=lfs diff=lfs merge=lfs -text
+mmpose/Demo_model/rtmpose-l_simcc-coco-wholebody_pt-aic-coco_270e-256x192-6f206314_20230124.pth filter=lfs diff=lfs merge=lfs -text
+mmpose/Demo_model/rtmpose-m_simcc-coco-wholebody_pt-aic-coco_270e-256x192-cd5e845c_20230123.pth filter=lfs diff=lfs merge=lfs -text
+mmpose/Demo_model/td-hm_hrnet-w32_8xb64-210e_ubody-coco-256x192-7c227391_20230807.pth filter=lfs diff=lfs merge=lfs -text
