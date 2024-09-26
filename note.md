@@ -74,3 +74,7 @@ python exp/inference/inference.py  \
 并运行/data/muxiangyu/pythonPrograms/Mannequin2Real/Mannequin2Video/Graphonomy/inference_folder.sh
 
 此外，文件/data/muxiangyu/pythonPrograms/Mannequin2Real/Mannequin2Video/Graphonomy/parsing_analysis.ipynb是用来查看分割图像标签的Demo。
+
+### 预训练模型位置
+1. 对于Graphonomy，预训练模型放在了Graphonomy/data/pretrained_mode/inference.pth下面
+2. 对于mmpose，预训练模型放在mmpose/Demo_model/rtmpose-m_simcc-coco-wholebody_pt-aic-coco_270e-256x192-cd5e845c_20230123.pth
